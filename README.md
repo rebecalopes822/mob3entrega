@@ -30,4 +30,7 @@ OdontoSmart é um aplicativo mobile desenvolvido para ajudar dentistas e profiss
 
 4. Inicie o Expo (npx expo start)
 
+## Arquitetura do Projeto
+Abaixo está o diagrama representando a estrutura de pastas e arquivos do projeto:
 
+![Diagrama da Arquitetura](ArquiteturaOdontoPrev.png)
